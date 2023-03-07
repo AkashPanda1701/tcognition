@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+label{
+    display: block;
+    color: rgb(80, 80, 80);
+}
